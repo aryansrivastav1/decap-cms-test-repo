@@ -6,6 +6,7 @@ date: 2024-09-27T17:35:06.706Z
 tags:
   - Tags
   - config.yml
+  - post
 ---
 ![Scenery Image](https://i.ytimg.com/vi/XNQGGUKTSX4/maxresdefault.jpg "Drawing of a Scenery")
 
